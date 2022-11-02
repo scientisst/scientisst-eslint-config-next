@@ -1,0 +1,34 @@
+{
+	"name": "@scientisst/eslint-config-next",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/scientisst/scientisst-eslint-config.git",
+	"contributors": [
+		{
+			"name": "Rui Maciel",
+			"email": "ruigouveiamaciel@gmail.com",
+			"url": "https://github.com/ruigouveiamaciel"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Rui Maciel",
+			"email": "ruigouveiamaciel@gmail.com",
+			"url": "https://github.com/ruigouveiamaciel"
+		}
+	],
+	"license": "MIT",
+	"peerDependencies": {
+		"@typescript-eslint/eslint-plugin": ">= 5",
+		"eslint": ">= 8",
+		"eslint-config-prettier": ">= 13",
+		"eslint-plugin-prettier": ">= 4",
+		"typescript": ">= 4"
+	},
+	"dependencies": {
+		"@typescript-eslint/parser": "^5.42.0",
+		"eslint": "^8.26.0",
+		"eslint-config-next": "^13.0.1",
+		"eslint-config-prettier": "^8.5.0"
+	}
+}
