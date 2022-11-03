@@ -4,14 +4,14 @@ This package contains recommended eslint settings for ScientISST or ScientISST-i
 ## Install
 
 ```bash
-npm install --save-dev @scientisst/eslint-config-next
+npm install --save-dev eslint @scientisst/eslint-config-next
 ```
 
 ```bash
-yarn add -D @scientisst@eslint-config-next
+yarn add -D eslint @scientisst@eslint-config-next
 ```
 
-## Example .eslintrc.json
+## .eslintrc.json
 
 ```json
 {
