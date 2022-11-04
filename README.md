@@ -8,7 +8,7 @@ npm install --save-dev eslint @scientisst/eslint-config-next
 ```
 
 ```bash
-yarn add -D eslint @scientisst@eslint-config-next
+yarn add -D eslint @scientisst/eslint-config-next
 ```
 
 ## .eslintrc.json
